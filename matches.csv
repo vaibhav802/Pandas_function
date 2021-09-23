@@ -1,0 +1,379 @@
+id,date,season,city,team1,team2,toss_winner,toss_decision,result,dl_applied,winner
+1,Yes,2017,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Sunrisers Hyderabad
+2,Yes,2017,Pune,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,0,Rising Pune Supergiant
+3,Yes,2017,Rajkot,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+,Yes,2017,Indore,Rising Pune Supergiant,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+,Yes,2017,Bangalore,,,Royal Challengers Bangalore,bat,,,Royal Challengers Bangalore
+,Yes,2017,Hyderabad,,,Sunrisers Hyderabad,field,,,Sunrisers Hyderabad
+,Yes,2017,Mumbai,,,Mumbai Indians,field,,,Mumbai Indians
+,Yes,2017,Indore,,,Royal Challengers Bangalore,bat,,,Kings XI Punjab
+,Yes,2017,Pune,,,Rising Pune Supergiant,field,,,Delhi Daredevils
+,Yes,2017,Mumbai,Sunrisers Hyderabad,,Mumbai Indians,field,,,Mumbai Indians
+11,Yes,2017,Kolkata,Kings XI Punjab,,Kolkata Knight Riders,field,normal,,Kolkata Knight Riders
+12,Yes,2017,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,,Mumbai Indians
+13,Yes,2017,Rajkot,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,field,normal,,Gujarat Lions
+14,Yes,2017,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,,Kolkata Knight Riders
+15,Yes,2017,Delhi,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+16,Yes,2017,Mumbai,Gujarat Lions,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+17,Yes,2017,Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rising Pune Supergiant
+18,Yes,2017,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,0,Kolkata Knight Riders
+19,Yes,2017,Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad
+20,Yes,2017,Rajkot,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,0,Royal Challengers Bangalore
+21,Yes,2017,Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad
+22,Yes,2017,Indore,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+23,Yes,2017,Kolkata,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions
+24,Yes,2017,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Mumbai Indians
+25,Yes,2017,Pune,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,0,Rising Pune Supergiant
+26,Yes,2017,Rajkot,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,0,Kings XI Punjab
+27,Yes,2017,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders
+28,Yes,2017,Mumbai,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,normal,0,Rising Pune Supergiant
+29,Yes,2017,Pune,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+30,Yes,2017,Bangalore,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions
+31,Yes,2017,Kolkata,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+32,Yes,2017,Chandigarh,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,normal,0,Sunrisers Hyderabad
+33,Yes,2017,Pune,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rising Pune Supergiant
+34,Yes,2017,Rajkot,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,tie,0,Mumbai Indians
+35,Yes,2017,Chandigarh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+36,Yes,2017,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Sunrisers Hyderabad
+37,Yes,2017,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians
+38,Yes,2017,Pune,Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,0,Rising Pune Supergiant
+39,Yes,2017,Delhi,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+40,Yes,2017,Kolkata,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,0,Rising Pune Supergiant
+41,Yes,2017,Delhi,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+42,Yes,2017,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kings XI Punjab
+43,Yes,2017,Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Rising Pune Supergiant
+44,Yes,2017,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Mumbai Indians
+45,Yes,2017,Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+46,Yes,2017,Chandigarh,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,normal,0,Gujarat Lions
+47,Yes,2017,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Sunrisers Hyderabad
+48,Yes,2017,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kings XI Punjab
+49,Yes,2017,Kanpur,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+50,Yes,2017,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Kings XI Punjab
+51,Yes,2017,Delhi,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+52,Yes,2017,Kanpur,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad
+53,Yes,2017,Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Mumbai Indians
+54,Yes,2017,Pune,Kings XI Punjab,Rising Pune Supergiant,Rising Pune Supergiant,field,normal,0,Rising Pune Supergiant
+55,Yes,2017,Delhi,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore
+56,Yes,2017,Mumbai,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,normal,0,Rising Pune Supergiant
+57,Yes,2017,Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,1,Kolkata Knight Riders
+58,Yes,2017,Bangalore,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+59,Yes,2017,Hyderabad,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,normal,0,Mumbai Indians
+60,Yes,2008,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders
+61,Yes,2008,Chandigarh,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+62,Yes,2008,Delhi,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,0,Delhi Daredevils
+63,Yes,2008,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore
+64,Yes,2008,Kolkata,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,bat,normal,0,Kolkata Knight Riders
+65,Yes,2008,Jaipur,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,0,Rajasthan Royals
+66,Yes,2008,Hyderabad,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,0,Delhi Daredevils
+67,Yes,2008,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Chennai Super Kings
+68,Yes,2008,Hyderabad,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+69,Yes,2008,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Kings XI Punjab
+70,Yes,2008,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+71,Yes,2008,Chennai,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings
+72,Yes,2008,Mumbai,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers
+73,Yes,2008,Chandigarh,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,0,Kings XI Punjab
+74,Yes,2008,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+75,Yes,2008,Kolkata,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,0,Mumbai Indians
+76,Yes,2008,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Delhi Daredevils
+77,Yes,2008,Hyderabad,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+78,Yes,2008,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+79,Yes,2008,Chennai,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,0,Delhi Daredevils
+80,Yes,2008,Hyderabad,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,0,Royal Challengers Bangalore
+81,Yes,2008,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,Kings XI Punjab
+82,Yes,2008,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Mumbai Indians
+83,Yes,2008,Jaipur,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals
+84,Yes,2008,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+85,Yes,2008,Chennai,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers
+86,Yes,2008,Mumbai,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+87,Yes,2008,Delhi,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings
+88,Yes,2008,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+89,Yes,2008,Jaipur,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+90,Yes,2008,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+91,Yes,2008,Chennai,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,0,Chennai Super Kings
+92,Yes,2008,Hyderabad,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+93,Yes,2008,Jaipur,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+94,Yes,2008,Chandigarh,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,0,Kings XI Punjab
+95,Yes,2008,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+96,Yes,2008,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+97,Yes,2008,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab
+98,Yes,2008,Delhi,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,0,Delhi Daredevils
+99,Yes,2008,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+100,Yes,2008,Delhi,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,1,Kings XI Punjab
+101,Yes,2008,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Rajasthan Royals
+102,Yes,2008,Hyderabad,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,0,Mumbai Indians
+103,Yes,2008,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,1,Chennai Super Kings
+104,Yes,2008,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+105,Yes,2008,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+106,Yes,2008,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Kings XI Punjab
+107,Yes,2008,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore
+108,Yes,2008,Chandigarh,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+109,Yes,2008,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+110,Yes,2008,Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+111,Yes,2008,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,0,Royal Challengers Bangalore
+112,Yes,2008,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,Kolkata Knight Riders
+113,Yes,2008,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+114,Yes,2008,Hyderabad,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,normal,0,Chennai Super Kings
+115,Yes,2008,Mumbai,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,0,Rajasthan Royals
+116,Yes,2008,Mumbai,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,0,Chennai Super Kings
+117,Yes,2008,Mumbai,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+118,Yes,2009,Cape Town,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians
+119,Yes,2009,Cape Town,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore
+120,Yes,2009,Cape Town,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,1,Delhi Daredevils
+121,Yes,2009,Cape Town,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,0,Deccan Chargers
+122,Yes,2009,Port Elizabeth,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+123,Yes,2009,Durban,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,1,Kolkata Knight Riders
+124,Yes,2009,Cape Town,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,0,Deccan Chargers
+125,Yes,2009,Durban,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+126,Yes,2009,Cape Town,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,tie,0,Rajasthan Royals
+127,Yes,2009,Durban,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,0,Kings XI Punjab
+128,Yes,2009,Durban,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,0,Deccan Chargers
+129,Yes,2009,Port Elizabeth,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,normal,0,Delhi Daredevils
+130,Yes,2009,Cape Town,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,0,Kings XI Punjab
+131,Yes,2009,Durban,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers
+132,Yes,2009,Port Elizabeth,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,0,Mumbai Indians
+133,Yes,2009,Centurion,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,0,Rajasthan Royals
+134,Yes,2009,Durban,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore
+135,Yes,2009,Durban,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,0,Kings XI Punjab
+136,Yes,2009,Centurion,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+137,Yes,2009,Centurion,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings
+138,Yes,2009,East London,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,0,Mumbai Indians
+139,Yes,2009,Durban,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore
+140,Yes,2009,Port Elizabeth,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,0,Rajasthan Royals
+141,Yes,2009,Johannesburg,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,0,Chennai Super Kings
+142,Yes,2009,Port Elizabeth,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,0,Kings XI Punjab
+143,Yes,2009,Johannesburg,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore
+144,Yes,2009,East London,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+145,Yes,2009,Durban,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,0,Rajasthan Royals
+146,Yes,2009,Durban,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,0,Delhi Daredevils
+147,Yes,2009,Centurion,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,0,Deccan Chargers
+148,Yes,2009,Centurion,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+149,Yes,2009,Centurion,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,1,Chennai Super Kings
+150,Yes,2009,East London,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,0,Delhi Daredevils
+151,Yes,2009,Kimberley,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+152,Yes,2009,Kimberley,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,Chennai Super Kings
+153,Yes,2009,Port Elizabeth,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Mumbai Indians
+154,Yes,2009,Johannesburg,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+155,Yes,2009,Kimberley,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,0,Deccan Chargers
+156,Yes,2009,Centurion,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+157,Yes,2009,Centurion,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,0,Mumbai Indians
+158,Yes,2009,Durban,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,0,Delhi Daredevils
+159,Yes,2009,Durban,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore
+160,Yes,2009,Durban,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+161,Yes,2009,Bloemfontein,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+162,Yes,2009,Port Elizabeth,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Chennai Super Kings
+163,Yes,2009,Johannesburg,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers
+164,Yes,2009,Johannesburg,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,0,Kings XI Punjab
+165,Yes,2009,Bloemfontein,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+166,Yes,2009,Centurion,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders
+167,Yes,2009,Johannesburg,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,0,Royal Challengers Bangalore
+168,Yes,2009,Durban,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+169,Yes,2009,Durban,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+170,Yes,2009,Centurion,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+171,Yes,2009,Centurion,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore
+172,Yes,2009,Centurion,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers
+173,Yes,2009,Johannesburg,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+174,Yes,2009,Johannesburg,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Deccan Chargers
+175,Yes,2010,Mumbai,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,0,Kolkata Knight Riders
+176,Yes,2010,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Mumbai Indians
+177,Yes,2010,Chandigarh,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+178,Yes,2010,Kolkata,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+179,Yes,2010,Chennai,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,normal,0,Deccan Chargers
+180,Yes,2010,Ahmedabad,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+181,Yes,2010,Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,0,Royal Challengers Bangalore
+182,Yes,2010,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+183,Yes,2010,Delhi,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Mumbai Indians
+184,Yes,2010,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+185,Yes,2010,Delhi,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,normal,0,Chennai Super Kings
+186,Yes,2010,Cuttack,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,0,Deccan Chargers
+187,Yes,2010,Ahmedabad,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+188,Yes,2010,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore
+189,Yes,2010,Cuttack,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,0,Deccan Chargers
+190,Yes,2010,Chennai,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,tie,0,Kings XI Punjab
+191,Yes,2010,Mumbai,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,normal,0,Mumbai Indians
+192,Yes,2010,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore
+193,Yes,2010,Chandigarh,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,0,Rajasthan Royals
+194,Yes,2010,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+195,Yes,2010,Ahmedabad,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,0,Rajasthan Royals
+196,Yes,2010,Chandigarh,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+197,Yes,2010,Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Delhi Daredevils
+198,Yes,2010,Ahmedabad,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+199,Yes,2010,Mumbai,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,0,Mumbai Indians
+200,Yes,2010,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+201,Yes,2010,Mumbai,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+202,Yes,2010,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings
+203,Yes,2010,Delhi,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+204,Yes,2010,Kolkata,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+205,Yes,2010,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,0,Royal Challengers Bangalore
+206,Yes,2010,Chennai,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+207,Yes,2010,Mumbai,Mumbai Indians,Deccan Chargers,Mumbai Indians,bat,normal,0,Mumbai Indians
+208,Yes,2010,Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,normal,0,Kings XI Punjab
+209,Yes,2010,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+210,Yes,2010,Nagpur,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+211,Yes,2010,Chennai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+212,Yes,2010,Jaipur,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,normal,0,Rajasthan Royals
+213,Yes,2010,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+214,Yes,2010,Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers
+215,Yes,2010,Chandigarh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,0,Kings XI Punjab
+216,Yes,2010,Nagpur,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,0,Deccan Chargers
+217,Yes,2010,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+218,Yes,2010,Delhi,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,normal,0,Kings XI Punjab
+219,Yes,2010,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Mumbai Indians
+220,Yes,2010,Nagpur,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Deccan Chargers
+221,Yes,2010,Mumbai,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,normal,0,Mumbai Indians
+222,Yes,2010,Chennai,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings
+223,Yes,2010,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Royal Challengers Bangalore
+224,Yes,2010,Chennai,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,0,Delhi Daredevils
+225,Yes,2010,Dharamsala,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers
+226,Yes,2010,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Mumbai Indians
+227,Yes,2010,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders
+228,Yes,2010,Dharamsala,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings
+229,Yes,2010,Delhi,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,0,Deccan Chargers
+230,Yes,2010,Kolkata,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,0,Kolkata Knight Riders
+231,Yes,2010,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,normal,0,Mumbai Indians
+232,Yes,2010,Mumbai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+233,Yes,2010,Mumbai,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,normal,0,Royal Challengers Bangalore
+234,Yes,2010,Mumbai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+235,Yes,2011,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+236,Yes,2011,Hyderabad,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+237,Yes,2011,Kochi,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,0,Royal Challengers Bangalore
+238,Yes,2011,Delhi,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,normal,0,Mumbai Indians
+239,Yes,2011,Mumbai,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,0,Pune Warriors
+240,Yes,2011,Kolkata,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+241,Yes,2011,Jaipur,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,0,Rajasthan Royals
+242,Yes,2011,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+243,Yes,2011,Chandigarh,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+244,Yes,2011,Mumbai,Kochi Tuskers Kerala,Pune Warriors,Kochi Tuskers Kerala,bat,normal,0,Pune Warriors
+245,Yes,2011,Hyderabad,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Deccan Chargers
+246,Yes,2011,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+247,Yes,2011,Mumbai,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,0,Kochi Tuskers Kerala
+248,Yes,2011,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+249,Yes,2011,Hyderabad,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+250,Yes,2011,Mumbai,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+251,Yes,2011,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+252,Yes,2011,Kochi,Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,1,Kochi Tuskers Kerala
+253,Yes,2011,Delhi,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,0,Deccan Chargers
+254,Yes,2011,Mumbai,Pune Warriors,Mumbai Indians,Pune Warriors,bat,normal,0,Mumbai Indians
+255,Yes,2011,Kolkata,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kochi Tuskers Kerala
+256,Yes,2011,Chandigarh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kings XI Punjab
+257,Yes,2011,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Mumbai Indians
+258,Yes,2011,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+259,Yes,2011,Delhi,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,normal,0,Delhi Daredevils
+260,Yes,2011,Hyderabad,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,normal,0,Mumbai Indians
+261,Yes,2011,Jaipur,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+262,Yes,2011,Chennai,Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,0,Chennai Super Kings
+263,Yes,2011,Delhi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+264,Yes,2011,Mumbai,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,normal,0,Chennai Super Kings
+265,Yes,2011,Kochi,Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,0,Deccan Chargers
+266,Yes,2011,Delhi,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,0,Kolkata Knight Riders
+267,Yes,2011,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+268,Yes,2011,Bangalore,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,0,Royal Challengers Bangalore
+269,Yes,2011,Kochi,Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+270,Yes,2011,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+271,Yes,2011,Jaipur,Pune Warriors,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals
+272,Yes,2011,Chennai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+273,Yes,2011,Mumbai,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,normal,0,Mumbai Indians
+274,Yes,2011,Delhi,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,0,Kochi Tuskers Kerala
+275,Yes,2011,Hyderabad,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,field,normal,0,Kolkata Knight Riders
+276,Yes,2011,Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,Chennai Super Kings
+277,Yes,2011,Mumbai,Mumbai Indians,Pune Warriors,Pune Warriors,field,normal,0,Mumbai Indians
+278,Yes,2011,Kochi,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kochi Tuskers Kerala
+279,Yes,2011,Hyderabad,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+280,Yes,2011,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Royal Challengers Bangalore
+281,Yes,2011,Kolkata,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,1,Kolkata Knight Riders
+282,Yes,2011,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Mumbai Indians
+283,Yes,2011,Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,normal,0,Royal Challengers Bangalore
+284,Yes,2011,Chandigarh,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,normal,0,Pune Warriors
+285,Yes,2011,Jaipur,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,normal,0,Chennai Super Kings
+286,Yes,2011,Hyderabad,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,0,Pune Warriors
+287,Yes,2011,Chandigarh,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,normal,0,Kings XI Punjab
+288,Yes,2011,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+289,Yes,2011,Chennai,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+290,Yes,2011,Indore,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+291,Yes,2011,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,1,Royal Challengers Bangalore
+292,Yes,2011,Mumbai,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,0,Deccan Chargers
+293,Yes,2011,Dharamsala,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,Kings XI Punjab
+294,Yes,2011,Indore,Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,normal,0,Kochi Tuskers Kerala
+295,Yes,2011,Mumbai,Pune Warriors,Deccan Chargers,Deccan Chargers,field,normal,0,Deccan Chargers
+296,Yes,2011,Dharamsala,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,normal,0,Kings XI Punjab
+297,Yes,2011,Chennai,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+298,Yes,2011,Mumbai,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+299,Yes,2011,Mumbai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Rajasthan Royals
+300,Yes,2011,Dharamsala,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,normal,0,Deccan Chargers
+301,Yes,2011,Delhi,Delhi Daredevils,Pune Warriors,Delhi Daredevils,bat,no result,0,
+302,Yes,2011,Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+303,Yes,2011,Kolkata,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+304,Yes,2011,Mumbai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings
+305,Yes,2011,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+306,Yes,2011,Chennai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Royal Challengers Bangalore
+307,Yes,2011,Chennai,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+308,Yes,2012,Chennai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+309,Yes,2012,Kolkata,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+310,Yes,2012,Mumbai,Pune Warriors,Mumbai Indians,Mumbai Indians,field,normal,0,Pune Warriors
+311,Yes,2012,Jaipur,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,normal,0,Rajasthan Royals
+312,Yes,2012,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,Royal Challengers Bangalore
+313,Yes,2012,Visakhapatnam,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,normal,0,Chennai Super Kings
+314,Yes,2012,Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Rajasthan Royals
+315,Yes,2012,Pune,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,normal,0,Pune Warriors
+316,Yes,2012,Visakhapatnam,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,normal,0,Mumbai Indians
+317,Yes,2012,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders
+318,Yes,2012,Delhi,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+319,Yes,2012,Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,normal,0,Mumbai Indians
+320,Yes,2012,Chennai,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings
+321,Yes,2012,Chandigarh,Pune Warriors,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+322,Yes,2012,Kolkata,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Kolkata Knight Riders
+323,Yes,2012,Delhi,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,0,Delhi Daredevils
+324,Yes,2012,Pune,Chennai Super Kings,Pune Warriors,Chennai Super Kings,bat,normal,0,Pune Warriors
+325,Yes,2012,Kolkata,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kings XI Punjab
+326,Yes,2012,Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+327,Yes,2012,Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+328,Yes,2012,Jaipur,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,normal,0,Rajasthan Royals
+329,Yes,2012,Bangalore,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,normal,0,Royal Challengers Bangalore
+330,Yes,2012,Chandigarh,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,Kolkata Knight Riders
+331,Yes,2012,Hyderabad,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,normal,0,Delhi Daredevils
+332,Yes,2012,Chennai,Chennai Super Kings,Pune Warriors,Pune Warriors,field,normal,0,Chennai Super Kings
+333,Yes,2012,Chandigarh,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+334,Yes,2012,Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,normal,0,Chennai Super Kings
+335,Yes,2012,Delhi,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,normal,0,Pune Warriors
+336,Yes,2012,Mumbai,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,normal,0,Kings XI Punjab
+337,Yes,2012,Cuttack,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders
+338,Yes,2012,Jaipur,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,normal,0,Royal Challengers Bangalore
+339,Yes,2012,Pune,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,normal,0,Delhi Daredevils
+340,Yes,2012,Chandigarh,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,normal,0,Mumbai Indians
+341,Yes,2012,Pune,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,0,Deccan Chargers
+342,Yes,2012,Delhi,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,normal,0,Delhi Daredevils
+343,Yes,2012,Chennai,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,0,Kings XI Punjab
+344,Yes,2012,Kolkata,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+345,Yes,2012,Delhi,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,normal,0,Delhi Daredevils
+346,Yes,2012,Mumbai,Deccan Chargers,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+347,Yes,2012,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders
+348,Yes,2012,Cuttack,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,normal,0,Deccan Chargers
+349,Yes,2012,Jaipur,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,normal,0,Delhi Daredevils
+350,Yes,2012,Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+351,Yes,2012,Pune,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,normal,0,Mumbai Indians
+352,No,2012,Chennai,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,normal,0,Chennai Super Kings
+353,No,2012,Kolkata,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+354,No,2012,Chandigarh,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+355,No,2012,Mumbai,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+356,No,2012,Bangalore,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+357,No,2012,Delhi,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,normal,0,Kolkata Knight Riders
+358,No,2012,Pune,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,normal,0,Rajasthan Royals
+359,No,2012,Hyderabad,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,normal,0,Kings XI Punjab
+360,No,2012,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore
+361,No,2012,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings
+362,No,2012,Pune,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,normal,0,Royal Challengers Bangalore
+363,No,2012,Kolkata,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,normal,0,Mumbai Indians
+364,No,2012,Chennai,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings
+365,No,2012,Jaipur,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,normal,0,Rajasthan Royals
+366,No,2012,Chandigarh,Deccan Chargers,Kings XI Punjab,Deccan Chargers,bat,normal,0,Kings XI Punjab
+367,No,2012,Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians
+368,No,2012,Kolkata,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings
+369,No,2012,Delhi,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,normal,0,Delhi Daredevils
+370,No,2012,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,normal,0,Kolkata Knight Riders
+371,No,2012,Dharamsala,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab
+372,No,2012,Delhi,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,normal,0,Royal Challengers Bangalore
+373,No,2012,Hyderabad,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,bat,normal,0,Deccan Chargers
+374,No,2012,Dharamsala,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,normal,0,Delhi Daredevils
+375,No,2012,Pune,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
+376,No,2012,Hyderabad,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Deccan Chargers
+377,No,2012,Jaipur,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,normal,0,Mumbai Indians
+378,No,2012,Pune,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders
